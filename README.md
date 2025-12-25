@@ -1,7 +1,7 @@
 # 🏛️ Grand Egyptian Museum (GEM) Website
 
 ![GEM Banner](./assets/photo.webp)
-![GEM Banner](./assets/photo2.webp)
+![GEM Banner](./assets/photo2.png)
 
 ## 📌 Project Overview
 
